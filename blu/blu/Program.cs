@@ -11,6 +11,7 @@ namespace blu
         private static void Main(string[] args)
         {
             Console.WriteLine("Ticket001");
+            Console.WriteLine("Ticket001_2");
         }
     }
 }
