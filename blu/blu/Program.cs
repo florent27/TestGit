@@ -8,8 +8,11 @@ namespace blu
 {
     internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+            Console.WriteLine("Ticket001");
+            Console.WriteLine("Ticket001_2");
+            Console.WriteLine("Ticket002_1");
         }
     }
 }
